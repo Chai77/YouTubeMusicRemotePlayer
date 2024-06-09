@@ -1,0 +1,6 @@
+[submodule "YouTubeMusicRemotePlayerClient"]
+	path = YouTubeMusicRemotePlayerClient
+	url = https://github.com/Chai77/YouTubeMusicRemotePlayerClient
+[submodule "YouTubeMusicRemotePlayerServer"]
+	path = YouTubeMusicRemotePlayerServer
+	url = https://github.com/Chai77/YouTubeMusicRemotePlayerServer
